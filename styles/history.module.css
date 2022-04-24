@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  background-color: #1b262c;
+  padding: 1rem;
+}
+
+.historyTitle {
+  font-family: "Oswald", sans-serif;
+  font-size: 2.25rem;
+  padding-bottom: 1rem;
+  color: #0f4c75;
+}
+
+.historyText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Quicksand", sans-serif;
+  top: 50%;
+  font-size: 1rem;
+  padding-right: 1rem;
+  text-align: center;
+  color: #bbe1fa;
+}
+
+.historyList {
+  display: flex;
+}

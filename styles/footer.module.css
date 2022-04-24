@@ -1,0 +1,16 @@
+.container{
+    color: #BBE1FA;
+    background-color: rgb(24, 28, 29);
+    padding-top: 2vh;
+    font-size: 12px;
+    display: flex;
+    min-height: 6vh;
+    flex-direction: column;
+  }
+
+  .content{
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

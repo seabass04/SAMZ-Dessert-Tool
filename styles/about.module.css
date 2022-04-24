@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20% 2%;
+    background-color: #1B262C;
+    size:100vh;
+}
+
+.about{
+    margin: 2rem;
+}
+
+.aboutTitle{
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+    font-size: 3.1rem;
+    padding-bottom: 1rem;
+    color: #0F4C75;
+}
+
+.aboutText{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #BBE1FA;
+}
+
+.team{
+    margin: 1rem;
+}
+
+.teamTitle{
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+    font-size: 3.1rem;
+    color: #0F4C75;
+}
+
+
+.cardsTitle{
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+    margin: 1rem;
+    color: #BBE1FA;
+}
